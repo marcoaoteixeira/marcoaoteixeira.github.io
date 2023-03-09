@@ -1,7 +1,7 @@
 (function ($) {
   var i18n = $.i18n();
   var changeLanguage = function (locale) {
-    i18n.locale = locale;
+    i18n.locale = locale.toLowerCase();
     i18n
       .load('./i18n/' + i18n.locale + '.json', i18n.locale)
       .done(function () {
@@ -18,7 +18,7 @@
     });
 
     $('.change-language').on('click', function () {
-        changeLanguage(this.lang.toLowerCase());
+        changeLanguage(this.lang);
         return false;
     });
   });
