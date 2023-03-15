@@ -1,9 +1,70 @@
 {
+    "Position": "Engenheiro de Software",
+    "Hire Me": "Contrate-me",
     "About Me": "Sobre Mim",
+    "About Me Summary": "Desenvolvedor backend experiente com grande conhecimento em <strong>.NET</strong>, também capaz de trabalhar com Java, Javascript e Vue.Js. Membro de equipe que adora encontrar soluções inteligentes para problemas complexos e está aberto a aprendendo coisas novas no dia a dia. Com mais de <strong>15 anos</strong> de experiência em uma variedade de áreas, facilidade de comunicação e troca de experiências, ótimo formação técnica, autodidata e proativo. Capaz de administrar o tempo e projetos com facilidade, amplo conhecimento em desenvolvimento de software, metodologias ágeis e serviços em nuvem.",
     "Contact": "Contato",
+    "Email": "E-mail",
+    "Phone": "Telefone",
+    "Location": "Residência",
+    "Location - Description": "São Paulo, São Paulo, Brasil",
     "Professional Skills": "Habilidades Profissionais",
+    "Adaptability": "Adaptabilidade",
+    "Effective Time Management": "Gestão eficaz do tempo",
+    "Ability to Work Under Pressure": "Capacidade de trabalhar sob pressão",
+    "Communication Skills": "Habilidades de comunicação",
+    "Ability to Work in a Team": "Capacidade de trabalhar em equipe",
+
     "Work Experience": "Experiência Profissional",
+
+    "Work Experience - Cardlytics - Position": "Software Engineer <span class='text-muted h6'>em Agile Engine/Cardlytics (Atlanta, Georgia, EUA)</span>",
+    "Work Experience - Cardlytics - Period": "Junho, 2022 - Atualmente",
+    "Work Experience - Cardlytics - Summary": "A <strong>Cardlytics</strong> é uma plataforma de anúncios nativa nos canais digitais dos bancos. Eles fazem parceria com as principais instituições financeiras nos EUA e no Reino Unido para oferecer recompensas (cash back) aos seus clientes. Mais de 168 milhões de clientes bancários ajudam as marcas a impulsionar vendas incrementais e aumentar a participação no mercado.",
+    "Work Experience - Cardlytics - Bullet 1": "Implementação eficiente do código e alterações baseadas em especificações de design",
+    "Work Experience - Cardlytics - Bullet 2": "Melhorias e manutenção de microserviços",
+    "Work Experience - Cardlytics - Bullet 3": "Monitoramento de saúde dos microserviços",
+
+    "Work Experience - Mercado Eletrônico - Position": "Software Engineer <span class='text-muted h6'>em Mercado Eletrônico (São Paulo, São Paulo, Brasil)</span>",
+    "Work Experience - Mercado Eletrônico - Period": "Setembro, 2014 - Maio, 2022",
+    "Work Experience - Mercado Eletrônico - Summary": "No <strong>Mercado Eletrônico</strong>, trabalhando principalmente com plataforma B2B em sua manutenção e aprimoramento. Além disso, pude compartilhar minha experiência com meus colegas de trabalho, orientando-os em unit test, melhores práticas, como entregar um bom software e conhecimentos relacionados. Sobre o stack tecnológico envolvido, C#, Java, ASPNET Core, REST APIs, Azure, bancos de dados relacional como SQLServer e não relacional como MongoDB. Como desenvolvedor frontend, com VueJS, NodeJS (para consumo de API) e Javascript ou Typescript. Um dos pontos altos trabalhando no Mercado Eletrônico foi a possiblidade de sugerir implementações diferentes para novos problemas, design de microserviços e definição do novo stack tecnológico que seria utilizado para tais microserviços. Também, o respeito que ganhei dos meus colegas, a capacidade de oferecer conselhos sobre desenvolvimento de software e a participação ativa na maioria das decisões que vão mudar a plataforma.",
+    "Work Experience - Mercado Eletrônico - Bullet 1": "Melhorias e manutenção da plataforma B2B",
+    "Work Experience - Mercado Eletrônico - Bullet 2": "Desenvolvimento majoritariamente com tecnologias Microsoft",
+    "Work Experience - Mercado Eletrônico - Bullet 3": "Suporte e desenvolvimento junto a equipe de frontend",
+    "Work Experience - Mercado Eletrônico - Bullet 4": "Disseminação do conhecimento de boas práticas e TDD",
+
+    "Work Experience - RDI Software - Position": "Senior Software Developer <span class='text-muted h6'>em RDI Software (São Paulo, São Paulo, Brasil)</span>",
+    "Work Experience - RDI Software - Period": "Janeiro, 2013 - Setembro, 2014",
+    "Work Experience - RDI Software - Summary": "Na <strong>RDI Software</strong> foi minha primeira vez trabalhando para uma empresa multinacional, lá minha posição era desenvolvedor de software sênior, responsável, como membro da equipe, por refatorar e melhorar o software PDV. Pois estava chegando ao fim de seu ciclo de vida. Lá fui apresentado aos ciclos de CI/CD no desenvolvimento de software, utilizando TeamCity e o desenvolvimento orientado a testes. Foi uma experiência muito interessante e que me ensinou muito sobre como entregar software com facilidade e agregar valor a cada etapa do processo de desenvolvimento. As conquistas foram migrar a tecnologia antiga para uma nova (linguagem C com comunicação socket para linguagem C# com WPF (Windows Presentation Foundation) e WCF (Windows Communication Foundation)), avaliar opções de bancos de dados para o software que está sendo desenvolvido (banco de dados embarcado) e ajudar a melhorar a velocidade e integração entre o sistema legado (linguagem C) com o novo (C#), pois não poderíamos apenas substituir o software antigo devido ao seu tamanho e importância. Era preciso dar pequenos passos.",
+    "Work Experience - RDI Software - Bullet 1": "Renovação da plataforma de PDV para uma das maiores cadeias de fastfood dos EUA",
+    "Work Experience - RDI Software - Bullet 2": "Refatoração de código legado",
+    "Work Experience - RDI Software - Bullet 3": "Trabalho com times multiculturais",
+
+    "Work Experience - Pharmalink Online - Position": "Software Developer <span class='text-muted h6'>em Pharmalink Online (São Paulo, São Paulo, Brasil)</span>",
+    "Work Experience - Pharmalink Online - Period": "Janeiro, 2010 - Novembro, 2012",
+    "Work Experience - Pharmalink Online - Summary": "Na <strong>Pharmalink Online</strong>, fui responsável pela manutenção e melhoria da sua plataforma B2B. Foi a primeira vez que trabalhei com uma equipe com mais de 5 pessoas. Lá desenvolvi a maior parte de minhas hardskills com tecnologias Microsoft (ASPNET, C#, SQLServer, WCF) e soft skills como trabalho em equipe, comunicação, resolução de problemas, desenvoltura, desempenho. Um dos maiores pontos foi poder alterar o sistema de controle de versão (era CVS e mudamos para GIT) o que proporcionou uma maior facilidade na resolução de conflitos de código pelo time e também aprimoramento de queries no SQL Server devido a baixa performance do banco de dados.",
+    "Work Experience - Pharmalink Online - Bullet 1": "Melhorias e manutenção da plataforma B2B",
+    "Work Experience - Pharmalink Online - Bullet 2": "Aprimorar queries no banco de dados e sua performance",
+    "Work Experience - Pharmalink Online - Bullet 3": "Migração do controle de versão (CVS -&gt; GIT)",
+
+
     "Education": "Educação",
+    "Education - Degree - Anhembi Morumbi": "Tecnólogo, Análise e Desenvolvimento de Sistemas <span class='text-muted h6'>pela Universidade Anhembi Morumbi (São Paulo, São Paulo, Brasil)</span>",
+    "Education - Degree - Anhembi Morumbi - Period": "Janeiro, 2017 - Dezembro, 2022",
+    "Education - MBA - Anhembi Morumbi": "MBA, Gestão em Informática <span class='text-muted h6'>pela Universidade Anhembi Morumbi (São Paulo, São Paulo, Brazil)</span>",
+    "Education - MBA - Anhembi Morumbi - Period": "Março, 2023 - Atualmente",
+    "Education - Postgraduate - UFRJ": "Pós Graduação, Arquitetura de Software <span class='text-muted h6'>pela Universidade Federal do Rio de Janeiro (Rio de Janeiro, Rio de Janeiro, Brazil)</span>",
+    "Education - Postgraduate - UFRJ - Period": "Março, 2023 - Atualmente",
+
     "Courses": "Cursos",
-    "Languages": "Línguas"
+    "Courses - MongoDB University - MongoDB Basics": "MongoDB Basics <span class='text-muted h6'>pela Mongo University</span>",
+    "Courses - MongoDB University - MongoDB Aggregation Framework": "MongoDB Aggregation Framework <span class='text-muted h6'>pela Mongo University</span>",
+    "Courses - MongoDB University - MongoDB for .NET Developers": "MongoDB for .NET Developers <span class='text-muted h6'>pela Mongo University</span>",
+    "Courses - Udemy - Microservices Architecture": "Microservices Architecture <span class='text-muted h6'>pela Udemy</span>",
+    "Courses - Udemy - SOLID Principles: Introducing Software Architecture & Design": "SOLID Principles: Introducing Software Architecture & Design <span class='text-muted h6'>pela Udemy</span>",
+    "Courses - Udemy - TDD in C#: From A to Z": "TDD in C#: From A to Z <span class='text-muted h6'>pela Udemy</span>",
+    "Courses - Udemy - Docker: Developers' Essential Tool": "Docker: Developers' Essential Tool <span class='text-muted h6'>pela Udemy</span>",
+
+    "Languages": "Línguas",
+    "Languages - English": "Inglês <span class='text-muted h6'>Nível Profissional (IELTS 2022 - Score 7)</span>",
+    "Languages - French": "Francês <span class='text-muted h6'>Iniciante</span>"
 }
