@@ -18,9 +18,9 @@
     
     "Work Experience - Cardlytics - Position": "Software Engineer <span class='text-muted h6'>at Agile Engine/Cardlytics (Atlanta, Georgia, USA)</span>",
     "Work Experience - Cardlytics - Period": "June, 2022 - Present",
-    "Work Experience - Cardlytics - Summary": "<strong>Cardlytics</strong> is a native ad platform within banks’ digital channels. They partner with top financial institutions in the US and UK to provide rewards to their customers. Over 168M bank customers help brands drive incremental sales and grow market share.",
-    "Work Experience - Cardlytics - Bullet 1": "Effectively coded software changes and alterations based on design specifications",
-    "Work Experience - Cardlytics - Bullet 2": "Enhancement and maintenance of microservices",
+    "Work Experience - Cardlytics - Summary": "<strong>Cardlytics</strong> is a native ad platform within banks’ digital channels. They partner with top financial institutions in the US and UK to provide rewards to their customers. Over 168M bank customers help brands drive incremental sales and grow market share. There I was able to further explore my knowledge with microservices, messaging and AWS. Working as a backend in the implementation and improvement of existing services and active participation in the creation of new services to handle marketing and advertising campaigns. I had the opportunity to be directly responsible for the code I was developing, taking it from its initial phase to delivery in a production environment, making use of the CI/CD resources I had at hand, in addition to monitoring the state of services using tools such as Datadog and Sumologic.",
+    "Work Experience - Cardlytics - Bullet 1": "Development, implementation and improvement of microservices and collaboration on defining microservices and implementation designs",
+    "Work Experience - Cardlytics - Bullet 2": "Ownership for delivering tasks in a production environment",
     "Work Experience - Cardlytics - Bullet 3": "Monitoring microservices statuses and health",
 
     "Work Experience - Mercado Eletrônico - Position": "Software Engineer <span class='text-muted h6'>at Mercado Eletrônico (São Paulo, São Paulo, Brazil)</span>",
