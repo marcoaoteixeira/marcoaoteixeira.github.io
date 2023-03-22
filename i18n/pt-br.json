@@ -19,9 +19,9 @@
 
     "Work Experience - Cardlytics - Position": "Software Engineer <span class='text-muted h6'>em Agile Engine/Cardlytics (Atlanta, Georgia, EUA)</span>",
     "Work Experience - Cardlytics - Period": "Junho, 2022 - Atualmente",
-    "Work Experience - Cardlytics - Summary": "A <strong>Cardlytics</strong> é uma plataforma de anúncios nativa nos canais digitais dos bancos. Eles fazem parceria com as principais instituições financeiras nos EUA e no Reino Unido para oferecer recompensas (cash back) aos seus clientes. Mais de 168 milhões de clientes bancários ajudam as marcas a impulsionar vendas incrementais e aumentar a participação no mercado.",
-    "Work Experience - Cardlytics - Bullet 1": "Implementação eficiente do código e alterações baseadas em especificações de design",
-    "Work Experience - Cardlytics - Bullet 2": "Melhorias e manutenção de microserviços",
+    "Work Experience - Cardlytics - Summary": "A <strong>Cardlytics</strong> é uma plataforma de anúncios nativa nos canais digitais dos bancos. Eles fazem parceria com as principais instituições financeiras nos EUA e no Reino Unido para oferecer recompensas (cash back) aos seus clientes. Mais de 168 milhões de clientes bancários ajudam as marcas a impulsionar vendas incrementais e aumentar a participação no mercado. Aqui pude explorar mais meus conhecimentos com microsserviços, mensageria e AWS. Trabalhando como backend na implementação e aprimoramento dos serviços existentes e participação ativa na criação de novos serviços para lidar com campanhas de marketing e advertising. Tive a oportunidade de ser o responsável direto sobre o código o qual desenvolvia, levando-o de sua fase inicial até entrega em ambiente de produção fazendo uso dos recursos de CI/CD que tinha à mão, além de acompanhar o estado dos serviços utilizando ferramentas de monitoramento como Datadog e Sumologic.",
+    "Work Experience - Cardlytics - Bullet 1": "Desenvolvimento, implementação e aprimoração de microsserviços e colaboração na definição de serviços e designs de implementação",
+    "Work Experience - Cardlytics - Bullet 2": "Ownership pela entrega das tarefas em ambiente de produção",
     "Work Experience - Cardlytics - Bullet 3": "Monitoramento de saúde dos microserviços",
 
     "Work Experience - Mercado Eletrônico - Position": "Software Engineer <span class='text-muted h6'>em Mercado Eletrônico (São Paulo, São Paulo, Brasil)</span>",
